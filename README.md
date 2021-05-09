@@ -3,6 +3,14 @@
 
 I am Qingyu, A passionate developer come from China.
 
+<a href="https://twitter.com/erikqqy">
+  <img align="left" alt="ERIKQQY | Twitter" width="21px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" />
+</a>
+
+<a href="https://discord.gg/ERIK">
+  <img align="left" alt="ERIK's Discord" width="21px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png" />
+</a>
+
 - 🌱 I’m currently learning a lot.
 - 📫 How to reach me: 2283984853@qq.com
 
