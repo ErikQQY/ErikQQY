@@ -3,7 +3,7 @@
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErikQQY&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ErikQQY&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ErikQQY&repo=ErikQQY.github.io)](https://github.com/ErikQQY/ErikQQY.github.io)
 
 <!--
 **ErikQQY/ErikQQY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
