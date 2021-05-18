@@ -30,6 +30,9 @@ This is Qingyu, a passionate developer come from China.
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"></code>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ErikQQY&label=Profile%20views&color=0e75b6&style=flat" alt="ErikQQY" /> </p>
+
+
+<p align="left"> <a href="https://twitter.com/erikqqy" target="blank"><img src="https://img.shields.io/twitter/follow/erikqqy?logo=twitter&style=for-the-badge" alt="erikqqy" /></a> </p>
 <!--
 **ErikQQY/ErikQQY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
