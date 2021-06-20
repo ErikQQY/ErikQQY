@@ -17,9 +17,9 @@ This is Qingyu, a passionate open source enthusiast.
 
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/julia/julia-original.svg" alt="julia" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/julia/julia-original.svg" alt="julia" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="css3" width="40" height="40"/> </a>
@@ -39,11 +39,14 @@ This is Qingyu, a passionate open source enthusiast.
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original.svg" alt="matlab" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" alt="matlab" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/archive/7/7e/20180730220810%21Spyder_logo.svg" alt="matlab" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" alt="matlab" width="40" height="40"/> </a>
 
 ### Learning:
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="vuejs" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="vuejs" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/thealgorithms/thealgorithms-original.svg" alt="tensorflow" width="40" height="40"/> </a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ErikQQY&label=Profile%20views&color=0e75b6&style=flat" alt="ErikQQY" /> </p>
 
