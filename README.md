@@ -47,6 +47,7 @@ This is Qingyu, a passionate open source enthusiast.
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="vuejs" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/thealgorithms/thealgorithms-original.svg" alt="tensorflow" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" alt="tensorflow" width="40" height="40"/> </a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ErikQQY&label=Profile%20views&color=0e75b6&style=flat" alt="ErikQQY" /> </p>
 
