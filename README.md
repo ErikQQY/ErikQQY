@@ -11,4 +11,4 @@ This is Qingyu, a passionate open source enthusiast.
 - 💖 Open Source enthusiast.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErikQQY&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErikQQY&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErikQQY&hide=html&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
